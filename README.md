@@ -1,8 +1,11 @@
-# Getting Started with Create React App
+# React formula one app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. Run `npm install` in the project directory 
+2. Then run `npm start` to run the app locally
 
-## Available Scripts
+
+
+-------------------------------------------------
 
 In the project directory, you can run:
 
